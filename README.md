@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - :office: [LinkedIn](https://www.linkedin.com/in/dixit-vaibhav)
 - :bulb: [Email](er.vaibhavdixit@yahoo.com)
 
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=iosappsdevelopers
-&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaibhav’s github stats](https://github-readme-stats.vercel.app/api?username=iosappsdevelopers&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 - 😄 Pronouns: ...
