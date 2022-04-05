@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- 
 Contributing
 Contributions are welcome
 	•	Please, feel free to create an issue in issues(https://github.com/iosappsdevelopers/github-readme-social-article/issues) if you see any or want to suggest any improvement.
