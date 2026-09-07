@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Dixit
 
-### Senior iOS Developer | Lead iOS Engineer | Technical Lead | Mobile Architecture
+### Senior iOS Developer | Lead iOS Engineer | Technical Lead | Mobile Architecture | Apple Platform & Mobile Engineering
 
 I'm a **Senior iOS Developer / Technical Lead with 16+ years of experience** building, architecting, and delivering enterprise-grade mobile applications for iPhone and iPad.
 
@@ -25,6 +25,15 @@ I also use **AI-assisted development tools** to accelerate software development,
 * 🤖 Explore **AI-powered and AI-assisted mobile development**
 * 🌐 Build cross-platform applications using **Flutter**
 * 📦 Manage App Store delivery, TestFlight and production releases
+
+---
+
+## Apple Platform Development
+📱 iOS / iPadOS — Extensive production experience
+🖥️ macOS — Small native Mac applications
+⌚ watchOS — Apple Watch application prototypes/demos
+🌐 Flutter — Cross-platform applications targeting iOS, Android and macOS
+🤖 AI-assisted development — Using modern AI coding tools for application development, debugging and rapid prototyping
 
 ---
 
